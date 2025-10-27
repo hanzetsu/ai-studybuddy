@@ -1,0 +1,6 @@
+python-telegram-bot==20.5
+python-dotenv
+langchain
+pytesseract
+Pillow
+gigachat
